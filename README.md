@@ -11,7 +11,6 @@ A true-color Sentinel-2 timelapse of an exact 10 km × 10 km area centered on Pu
 - **Area:** 10,000 m × 10,000 m, calculated in the local UTM projection
 - **Center:** 20.6534° N, 105.2307° W
 - **Source:** Tilebox `open_data.aws_earth.sentinel2` dataset, Sentinel-2 Level-2A imagery
-- **Tilebox job:** [View the completed workflow job](https://console.tilebox.com/workflows/jobs/019fd805-fc77-b0f1-ad72-ee099125c595)
 - **Scene metadata:** [`puerto-vallarta-seasonal-rgb-2023-2026.json`](puerto-vallarta-seasonal-rgb-2023-2026.json)
 
 ## Method
