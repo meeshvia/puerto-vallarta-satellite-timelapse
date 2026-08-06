@@ -1,0 +1,11 @@
+[workflow]
+slug = "puerto-vallarta-seasonal-timelapse-9vg2kcSsfFfov9"
+root = "."
+runner = "runner:runner"
+
+[build]
+include = [
+  "pyproject.toml",
+  "uv.lock",
+  "**/*.py",
+]

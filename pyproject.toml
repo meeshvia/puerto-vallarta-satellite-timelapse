@@ -1,0 +1,10 @@
+[project]
+name = "puerto-vallarta-seasonal-timelapse"
+version = "0.1.0"
+description = "Build a seasonal low-cloud Sentinel-2 RGB timelapse for Puerto Vallarta"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "pillow>=11.0",
+  "tilebox",
+]

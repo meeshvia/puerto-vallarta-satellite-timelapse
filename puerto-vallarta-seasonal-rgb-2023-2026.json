@@ -1,0 +1,134 @@
+{
+  "dataset": "open_data.aws_earth.sentinel2",
+  "location": "Puerto Vallarta, Mexico",
+  "center": [
+    -105.2307,
+    20.6534
+  ],
+  "size_meters": 10000,
+  "aoi_geojson": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -105.27861718916323,
+          20.608149510706383
+        ],
+        [
+          -105.18264647300707,
+          20.60827753356562
+        ],
+        [
+          -105.1827544449158,
+          20.698637208658212
+        ],
+        [
+          -105.27878189291334,
+          20.698508574391926
+        ],
+        [
+          -105.27861718916323,
+          20.608149510706383
+        ]
+      ]
+    ]
+  },
+  "scenes": [
+    {
+      "season": "Autumn 2023",
+      "acquired": "2023-11-16",
+      "scene_id": "S2B_T13QDC_20231116T174110_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.002,
+      "scene_cloud_percent": 2.728
+    },
+    {
+      "season": "Winter 2024",
+      "acquired": "2023-12-16",
+      "scene_id": "S2B_T13QDC_20231216T174045_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.003,
+      "scene_cloud_percent": 0.008
+    },
+    {
+      "season": "Spring 2024",
+      "acquired": "2024-03-30",
+      "scene_id": "S2A_T13QDC_20240330T174356_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.021,
+      "scene_cloud_percent": 0.086
+    },
+    {
+      "season": "Summer 2024",
+      "acquired": "2024-08-07",
+      "scene_id": "S2A_T13QDC_20240807T173814_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 17.334,
+      "scene_cloud_percent": 27.006
+    },
+    {
+      "season": "Autumn 2024",
+      "acquired": "2024-10-31",
+      "scene_id": "S2B_T13QDC_20241031T174053_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.011,
+      "scene_cloud_percent": 0.015
+    },
+    {
+      "season": "Winter 2025",
+      "acquired": "2024-12-10",
+      "scene_id": "S2B_T13QDC_20241210T174629_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.0,
+      "scene_cloud_percent": 0.02
+    },
+    {
+      "season": "Spring 2025",
+      "acquired": "2025-03-20",
+      "scene_id": "S2B_T13QDC_20250320T174516_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.031,
+      "scene_cloud_percent": 0.283
+    },
+    {
+      "season": "Summer 2025",
+      "acquired": "2025-06-05",
+      "scene_id": "S2A_T13QDC_20250605T174552_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 3.104,
+      "scene_cloud_percent": 30.55
+    },
+    {
+      "season": "Autumn 2025",
+      "acquired": "2025-11-05",
+      "scene_id": "S2B_T13QDC_20251105T173851_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.0,
+      "scene_cloud_percent": 1.318
+    },
+    {
+      "season": "Winter 2026",
+      "acquired": "2025-12-20",
+      "scene_id": "S2C_T13QDC_20251220T174311_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.0,
+      "scene_cloud_percent": 0.004
+    },
+    {
+      "season": "Spring 2026",
+      "acquired": "2026-03-12",
+      "scene_id": "S2A_T13QDC_20260312T174321_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 0.023,
+      "scene_cloud_percent": 0.071
+    },
+    {
+      "season": "Summer 2026",
+      "acquired": "2026-07-03",
+      "scene_id": "S2B_T13QDC_20260703T174334_L2A",
+      "aoi_coverage_percent": 100.0,
+      "aoi_cloud_percent": 9.45,
+      "scene_cloud_percent": 19.138
+    }
+  ]
+}
